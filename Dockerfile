@@ -1,4 +1,4 @@
-FROM land007/debain-codemeter:latest
+FROM land007/debian-codemeter:latest
 
 MAINTAINER Yiqiu Jia <yiqiujia@hotmail.com>
 
